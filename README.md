@@ -1,4 +1,5 @@
 # solar-smart-bus-stop
+Solar-powered smart bus stop integrating Wi-Fi, safety features, and sustainable energy solutions for urban infrastructure
 
 **Overview**
 This project presents a sustainable and intelligent public transport infrastructure solution designed to improve safety, accessibility, and digital connectivity at urban bus stops. It integrates solar energy with smart features to create a self-sufficient and user-friendly system.
